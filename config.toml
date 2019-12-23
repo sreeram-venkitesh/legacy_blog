@@ -3,6 +3,8 @@ languageCode = "en-us"
 # DefaultContentLanguage="ml"
 theme = "yinyang"
 
+publishDir = "docs"
+
 [params]
 headTitle = "Sreeram Venkitesh"
 
@@ -22,7 +24,7 @@ headTitle = "Sreeram Venkitesh"
 
 [[params.socials]]
 name = "About Me"
-link = "/about"
+link = "/content/about"
 [[params.socials]]
 name = "Github"
 link = "https://github.com/fillerInk"    
