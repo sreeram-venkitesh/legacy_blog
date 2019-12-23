@@ -1,7 +1,7 @@
 baseURL = "http://blog.sreeram.me/"
 languageCode = "en-us"
 # DefaultContentLanguage="ml"
-theme = "yinyang"
+theme = "hugo-theme-yinyang"
 
 publishDir = "docs"
 
