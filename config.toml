@@ -1,0 +1,28 @@
+baseURL = "http://blog.sreeram.me/"
+languageCode = "en-us"
+# DefaultContentLanguage="ml"
+theme = "yinyang"
+
+[params]
+headTitle = "Sreeram Venkitesh"
+
+# [languages]
+#   [languages.en]
+#     headTitle="Sreeram Venkitesh"
+#     title="Sreeram Venkitesh"
+#     contentDir = "content/en"
+#     languageName = "English"
+#     weight = 1
+#   [languages.ml]
+#     headTitle="ശ്രീരാം വെങ്കിടേഷ്"
+#     title = "ശ്രീരാം വെങ്കിടേഷ് "
+#     contentDir = "content/ml"
+#     languageName = "മലയാളം"
+#     weight = 2
+
+[[params.socials]]
+name = "About Me"
+link = "/about"
+[[params.socials]]
+name = "Github"
+link = "https://github.com/fillerInk"    
