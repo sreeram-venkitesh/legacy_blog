@@ -6,19 +6,9 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2019 21:19:30 +0530</lastBuildDate>
     
 	<atom:link href="http://blog.sreeram.me/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About Myself</title>
-      <link>http://blog.sreeram.me/about/</link>
-      <pubDate>Mon, 23 Dec 2019 21:19:30 +0530</pubDate>
-      
-      <guid>http://blog.sreeram.me/about/</guid>
-      <description>I&#39;m a third year engineering student. </description>
-    </item>
     
   </channel>
 </rss>
