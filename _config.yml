@@ -32,21 +32,21 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:               "kiko-plus"
+  id:               "sreeramvenkitesh"
 
 # URL
 #url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
 url:                "http://localhost:4000" # use this url when you develop
-baseurl:            "/_posts" # the subpath of your site, e.g. /blog
+baseurl:            "/blog" # the subpath of your site, e.g. /blog
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:           Asia/Seoul
+timezone:           Asia/Kolkata
 permalink:          /:year-:month-:day/:title/
 
 # Pagination
 paginate:           5
-paginate_path:      /page:num/
+paginate_path:      /blog/page:num/
 
 # Markdown
 markdown:           kramdown
@@ -62,7 +62,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+    url:            "https://github.com/fillerInk"
 
 # Sass
 sass:
@@ -90,6 +90,9 @@ gems:
   - jekyll-paginate
   - jekyll-admin
   - github-pages
+
+plugins:
+  - jekyll-paginate 
 
 
 exclude:            [vendor]
