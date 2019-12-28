@@ -35,8 +35,8 @@ disqus:
   id:               "sreeramvenkitesh"
 
 # URL
-url:                "https://blog.sreeram.me" # the base hostname & protocol for your site
-#url:                "http://localhost:4000" # use this url when you develop
+#url:                "https://blog.sreeram.me" # the base hostname & protocol for your site
+url:                "http://localhost:4000" # use this url when you develop
 #baseurl:            "/blog" # the subpath of your site, e.g. /blog
 
 
@@ -55,8 +55,8 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
-    url:            "/about"
+  - name:           "About Me"
+    url:            "https://sreeram.me"
   - name:           "Archive"
     url:            "/archive"
   - name:           "Tags"
