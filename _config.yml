@@ -56,12 +56,12 @@ kramdown:
 # Navigation
 nav:
   - name:           "About Me"
-    url:            "https://sreeram.me"
-  - name:           "Archive"
+    url:            "/about"
+  - name:           "Archives"
     url:            "/archive"
   - name:           "Tags"
     url:            "/tags"
-  - name:           "Github"
+  - name:           "GitHub"
     url:            "https://github.com/fillerInk"
 
 # Sass
