@@ -20,4 +20,4 @@ In order to make my own smartwatch, I used a Real Time Clock module, the DS1307 
 For the display I'll be using a small OLED display. Infact the smallest size I could find so that it would fit in a package that could be worn in our wrists. 
 
 
-| ![DS1307 RTC Module](/images/rtc.png) | ![OLED Module](/images/oled.png)
+| ![DS1307 RTC Module](blog/images/rtc.png) | ![OLED Module](blog/images/oled.png)
